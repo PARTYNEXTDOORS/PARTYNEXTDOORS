@@ -1,9 +1,10 @@
 <p align="center">
 
 
-![]()
+![](https://i.pinimg.com/564x/0b/6a/2f/0b6a2fcab1c7f923254628dd5e91b580.jpg)
 </p>
 ____
+
 # Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Farkhad - python developer
 
 
