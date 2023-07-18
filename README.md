@@ -1,7 +1,7 @@
 <p align="center">
 
 
-![](https://i.pinimg.com/564x/61/89/e0/6189e0abad48254b4915f95bfc4043d2.jpg)
+![]()
 </p>
 ____
 # Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Farkhad - python developer
@@ -14,17 +14,6 @@ ____
     - mail -> shokvee@gmail.com.
 - ⚡ Fun fact:
     - I have a degree in mining engineering.
-
-____
-
-<details><summary><strong>Skills 🛠:</strong></summary>
-<br />
-
-[![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)](https://www.python.org)
-[![markdown](https://img.shields.io/badge/markdown-%23434C5E?style=for-the-badge&logo=Markdown&labelColor=black&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
-[![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)](https://git-scm.com)
-
-</details>
 
 ____
 
@@ -43,3 +32,32 @@ CONST DEREK = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ____
+
+<details><summary><strong>Click to see my Profile stats 📊</strong></summary>
+<br />
+
+<p align="center">
+<a href = "https://github.com/anuraghazra/github-readme-stats ">
+  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api?username=PARTYNEXTDOORS&show_icons=true&hide_border=true&count_private=true&theme=nord" alt=""/>
+  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api/top-langs/?username=PARTYNExtdoors&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true" alt=""/>
+</a>
+
+<a href = "https://github.com/ryo-ma/github-profile-trophy"></a>
+
+[//]: # (  <img height="137em" src="https://github-profile-trophy.vercel.app/?username=PARTYNEXTDOORS&theme=nord&no-frame=true&margin-w=4&row=1"/>)
+
+[//]: # (</a>)
+
+[//]: # (<a href = "https://github.com/Ashutosh00710/github-readme-activity-graph">)
+
+[//]: # (  <img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=arsenic-atg&hide_border=true&theme=nord"" />)
+
+[//]: # (</a>)
+
+</p>
+
+**NOTE** : the above data (Most Used Languages) does not indicate my skill level or something like that, it's a GitHub
+metric of which languages I have the most code on GitHub
+</details>
+
+ ____
