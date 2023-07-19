@@ -22,6 +22,7 @@ ____
 </a>
 
 
+
 - 🔭 I'm looking for a job now.
 - 🌱 I’m currently learning asincio.
 - 🔭 I’m currently working on my pet projects.
@@ -30,11 +31,19 @@ ____
 - ⚡ - I have a degree in mining engineering.
 - ☕️ I’m coffeer.
 
-<p align="right">
 <a href = "https://github.com/anuraghazra/github-readme-stats ">
-  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api/top-langs/?username=PARTYNExtdoors&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true" alt=""/>
+  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api/top-langs/?username=PARTYNExtdoors&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true" alt="PARTYNEXTDOORS" align="right"/>
 </a>
-</p>
+
+Мои pet проекты: 
++ [Телеграм бот для приема платежей на qiwi кошелек](https://github.com/PARTYNEXTDOORS/qiwi_pay_bot)
++ [Телеграм бот магазина](https://github.com/PARTYNEXTDOORS/shop_bot_aiogram)
++ [Телеграм бот для оплаты подписки](https://github.com/PARTYNEXTDOORS/pay_bot_aiogram)
+
+Мои учебные проекты:
++ [Блог для любителей кошек](https://github.com/PARTYNEXTDOORS/infra_sprint1)
++ [REST API для сервиса YaMDB — базы данных о фильмах, книгах и музыке.](https://github.com/PARTYNEXTDOORS/API-YamDb)
++ [API для блога Yatube](https://github.com/PARTYNEXTDOORS/API-Yatube)
 
 ____
 
