@@ -41,7 +41,7 @@ ____
 + [Телеграм бот для оплаты подписки](https://github.com/PARTYNEXTDOORS/pay_bot_aiogram)
 
 Мои учебные проекты:
-+ [Блог для любителей кошек](https://github.com/PARTYNEXTDOORS/infra_sprint1)
++ [Блог для любителей кошек](https://github.com/PARTYNEXTDOORS/kittygram_final)
 + [REST API для сервиса YaMDB — базы данных о фильмах, книгах и музыке.](https://github.com/PARTYNEXTDOORS/API-YamDb)
 + [API для блога Yatube](https://github.com/PARTYNEXTDOORS/API-Yatube)
 
