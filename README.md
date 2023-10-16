@@ -17,9 +17,6 @@ ____
 </p>
 
 
-<a href = "https://github.com/anuraghazra/github-readme-stats ">
-  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api?username=PARTYNEXTDOORS&show_icons=true&hide_border=true&count_private=true&theme=nord" alt="PARTYNEXTDOORS" align="right"/>
-</a>
 
 
 
@@ -31,9 +28,6 @@ ____
 - ⚡ - I have a degree in mining engineering.
 - ☕️ I’m coffeer.
 
-<a href = "https://github.com/anuraghazra/github-readme-stats ">
-  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api/top-langs/?username=PARTYNExtdoors&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true" alt="PARTYNEXTDOORS" align="right"/>
-</a>
 
 Мои pet проекты: 
 + [Телеграм бот для приема платежей на qiwi кошелек](https://github.com/PARTYNEXTDOORS/qiwi_pay_bot)
