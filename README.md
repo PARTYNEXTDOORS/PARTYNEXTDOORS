@@ -34,11 +34,6 @@ ____
 + [Телеграм бот магазина](https://github.com/PARTYNEXTDOORS/shop_bot_aiogram)
 + [Телеграм бот для оплаты подписки](https://github.com/PARTYNEXTDOORS/pay_bot_aiogram)
 
-Мои учебные проекты:
-+ [Блог для любителей кошек](https://github.com/PARTYNEXTDOORS/kittygram_final)
-+ [REST API для сервиса YaMDB — базы данных о фильмах, книгах и музыке.](https://github.com/PARTYNEXTDOORS/API-YamDb)
-+ [API для блога Yatube](https://github.com/PARTYNEXTDOORS/API-Yatube)
-
 ____
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
