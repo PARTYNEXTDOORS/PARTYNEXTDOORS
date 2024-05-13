@@ -20,19 +20,11 @@ ____
 
 
 
-- 🔭 I'm looking for a job now.
-- 🌱 I’m currently learning asincio.
-- 🔭 I’m currently working on my pet projects.
+- 🌱 I’m currently working.
 - 📫 tg -> @Shokvee;
 - 📫 mail -> shokvee@gmail.com.
 - ⚡ - I have a degree in mining engineering.
 - ☕️ I’m coffeer.
-
-
-Мои pet проекты: 
-+ [Телеграм бот для приема платежей на qiwi кошелек](https://github.com/PARTYNEXTDOORS/qiwi_pay_bot)
-+ [Телеграм бот магазина](https://github.com/PARTYNEXTDOORS/shop_bot_aiogram)
-+ [Телеграм бот для оплаты подписки](https://github.com/PARTYNEXTDOORS/pay_bot_aiogram)
 
 ____
 
@@ -41,9 +33,14 @@ ____
 ```python
 CONST DEREK = {
   pronouns: "He" | "him",
-  code: [Python, HTML, CSS],
-  tools: [DRF, Aiogram, Nginx, Gunicorn, Docker, Git],
-  database: ["Postgresql", "Sqlite"],
+  code: [Python, SQL, HTML, CSS and a little bit С++],
+  tools: [
+        for analysis and visualization: pandas, numpy, matplotlib, seaborn;
+        for work with database: psycopg2, SqlAlchemy, wireshark;
+        for connection: websockets/tcp/,
+        for test: pytest, apache jmeter;
+        ]
+  database: ["Postgresql"],
   challenge: "I upgrade my skills every day."
 }
 ```
